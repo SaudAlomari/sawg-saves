@@ -1,21 +1,4 @@
 {
-  "p-mwpjqt1t4c90": {
-    "question": "اطول الكهيل ماتلحق ذنب البعير",
-    "type": "choice",
-    "options": [
-      "القمر",
-      "العين",
-      "الايد",
-      "السكة"
-    ],
-    "hints": [],
-    "author": "ماما صالحة",
-    "by": "saliha",
-    "id": "p-mwpjqt1t4c90",
-    "answersHidden": "PFGEueqv2qrw9MCvQyg=",
-    "images": {},
-    "submittedAt": "2026-11-20T22:24:23.636Z"
-  },
   "p-mwpjwz4o8915": {
     "question": "طيرتين تطير تسبق النفير",
     "type": "text",
