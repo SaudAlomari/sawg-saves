@@ -17,10 +17,11 @@
   },
   "nwafy": {
     "solved": [
-      "p-mwpaobft"
+      "p-mwpaobft",
+      "p-mwpdpl6p"
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-20T19:45:28.126Z"
+    "updatedAt": "2026-11-20T19:52:04.291Z"
   }
 }
