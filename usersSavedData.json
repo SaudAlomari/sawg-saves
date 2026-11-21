@@ -12,7 +12,8 @@
     "postpones": 0,
     "misses": {},
     "extra": {},
-    "current": "p-mwpg9p1o"
+    "current": "p-mwpg9p1o",
+    "hideFromBoard": true
   },
   "saud": {
     "solved": [
