@@ -23,7 +23,8 @@
     "postpones": 0,
     "misses": {},
     "extra": {},
-    "current": "p-mwps2rvnd79c"
+    "current": "p-mwps2rvnd79c",
+    "hideFromBoard": true
   },
   "nwafy": {
     "solved": [
