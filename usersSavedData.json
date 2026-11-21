@@ -61,5 +61,16 @@
     "postpones": 0,
     "misses": {},
     "updatedAt": "2026-11-21T02:24:44.464Z"
+  },
+  "moola": {
+    "solved": [
+      "p-mwpaobft"
+    ],
+    "skipped": [],
+    "hinted": [],
+    "postponed": {},
+    "postpones": 0,
+    "misses": {},
+    "updatedAt": "2026-11-21T03:45:37.108Z"
   }
 }
