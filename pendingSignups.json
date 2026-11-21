@@ -1,1 +1,9 @@
-{}
+{
+  "moola": {
+    "username": "moola",
+    "displayName": "Moola",
+    "salt": "bc93367c638444ec9f6d98dd24681fd3",
+    "hash": "77045a2bf05913aaa84c2c98424a33f4b6ffd93bbeb1ed9191f4602ec8848f85",
+    "requestedAt": "2026-11-21T03:42:58.232Z"
+  }
+}
