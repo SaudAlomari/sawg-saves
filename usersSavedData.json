@@ -64,13 +64,14 @@
   },
   "moola": {
     "solved": [
-      "p-mwpaobft"
+      "p-mwpaobft",
+      "p-mwpdpl6p"
     ],
     "skipped": [],
     "hinted": [],
     "postponed": {},
     "postpones": 0,
     "misses": {},
-    "updatedAt": "2026-11-21T03:45:37.108Z"
+    "updatedAt": "2026-11-21T03:49:12.994Z"
   }
 }
