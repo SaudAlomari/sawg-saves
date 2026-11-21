@@ -109,6 +109,7 @@
     "misses": {},
     "extra": {},
     "current": "p-mwpaobft",
-    "updatedAt": "2026-11-21T18:11:58.048Z"
+    "updatedAt": "2026-11-21T18:11:58.048Z",
+    "hideFromBoard": true
   }
 }
