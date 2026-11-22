@@ -28,7 +28,7 @@
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-22T22:34:53.527Z",
+    "updatedAt": "2026-11-22T22:34:55.855Z",
     "anonymous": true,
     "postponed": {},
     "postpones": 0,
@@ -39,7 +39,7 @@
       "p-mwseo38k78f9": 0,
       "p-mwsex5rhe34b": 1
     },
-    "current": "p-mwpjwz4o8915",
+    "current": "p-mwseubuef84b",
     "hideFromBoard": true,
     "word": {
       "p-mwse71vq5de7": {
@@ -51,6 +51,10 @@
           "قاف",
           "باب"
         ]
+      },
+      "p-mwseubuef84b": {
+        "s": "2Kr89NSv56o=",
+        "g": []
       }
     }
   },
