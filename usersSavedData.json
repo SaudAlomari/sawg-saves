@@ -26,7 +26,7 @@
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-22T22:10:09.396Z",
+    "updatedAt": "2026-11-22T22:12:31.024Z",
     "anonymous": true,
     "postponed": {},
     "postpones": 0,
@@ -35,8 +35,14 @@
       "p-mws1x4m3a65f": 1,
       "p-mwse2ukr8d47": 1
     },
-    "current": "p-mwpevcfx",
-    "hideFromBoard": true
+    "current": "p-mwse71vq5de7",
+    "hideFromBoard": true,
+    "word": {
+      "p-mwse71vq5de7": {
+        "s": "1fXAr82r",
+        "g": []
+      }
+    }
   },
   "nwafy": {
     "solved": [
