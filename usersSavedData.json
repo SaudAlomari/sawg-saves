@@ -22,18 +22,20 @@
       "p-mwpaobft",
       "p-mwrztu85ee7d",
       "p-mws1x4m3a65f",
-      "p-mwse2ukr8d47"
+      "p-mwse2ukr8d47",
+      "p-mwseo38k78f9"
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-22T22:27:58.981Z",
+    "updatedAt": "2026-11-22T22:28:25.809Z",
     "anonymous": true,
     "postponed": {},
     "postpones": 0,
     "misses": {},
     "extra": {
       "p-mws1x4m3a65f": 1,
-      "p-mwse2ukr8d47": 1
+      "p-mwse2ukr8d47": 1,
+      "p-mwseo38k78f9": 0
     },
     "current": "p-mwseo38k78f9",
     "hideFromBoard": true,
@@ -46,13 +48,6 @@
           "طاش",
           "قاف",
           "باب"
-        ]
-      },
-      "p-mwseo38k78f9": {
-        "s": "3PXer9Wr",
-        "g": [
-          "شمس",
-          "شعر"
         ]
       }
     }
