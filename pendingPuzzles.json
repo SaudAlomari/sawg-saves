@@ -1,17 +1,1 @@
-{
-  "p-mwsdy5ry9e26": {
-    "question": "ماهذا الشيء؟",
-    "type": "text",
-    "options": [],
-    "hints": [],
-    "author": "N30o0my",
-    "by": "nwafy",
-    "id": "p-mwsdy5ry9e26",
-    "answersHidden": "OlXlqtu90blTqrjErs6q9fTNr0Mo",
-    "images": {
-      "q": "pending/p-mwsdy5ry9e26-q.png",
-      "a": "pending/p-mwsdy5ry9e26-a.png"
-    },
-    "submittedAt": "2026-11-22T22:05:33.140Z"
-  }
-}
+{}
