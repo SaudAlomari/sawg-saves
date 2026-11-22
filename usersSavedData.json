@@ -23,11 +23,12 @@
       "p-mwrztu85ee7d",
       "p-mws1x4m3a65f",
       "p-mwse2ukr8d47",
-      "p-mwseo38k78f9"
+      "p-mwseo38k78f9",
+      "p-mwsex5rhe34b"
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-22T22:33:47.861Z",
+    "updatedAt": "2026-11-22T22:34:00.764Z",
     "anonymous": true,
     "postponed": {},
     "postpones": 0,
@@ -35,7 +36,8 @@
     "extra": {
       "p-mws1x4m3a65f": 1,
       "p-mwse2ukr8d47": 1,
-      "p-mwseo38k78f9": 0
+      "p-mwseo38k78f9": 0,
+      "p-mwsex5rhe34b": 1
     },
     "current": "p-mwsex5rhe34b",
     "hideFromBoard": true,
@@ -48,14 +50,6 @@
           "طاش",
           "قاف",
           "باب"
-        ]
-      },
-      "p-mwsex5rhe34b": {
-        "s": "warN9cCv5ao=",
-        "g": [
-          "سمير",
-          "عادل",
-          "لاذع"
         ]
       }
     }
