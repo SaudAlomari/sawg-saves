@@ -26,7 +26,7 @@
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-22T22:25:44.837Z",
+    "updatedAt": "2026-11-22T22:26:03.063Z",
     "anonymous": true,
     "postponed": {},
     "postpones": 0,
@@ -50,7 +50,9 @@
       },
       "p-mwseo38k78f9": {
         "s": "3PXer9Wr",
-        "g": []
+        "g": [
+          "شمس"
+        ]
       }
     }
   },
