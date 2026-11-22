@@ -25,11 +25,12 @@
       "p-mwse2ukr8d47",
       "p-mwseo38k78f9",
       "p-mwsex5rhe34b",
-      "p-mwseuyo15faf"
+      "p-mwseuyo15faf",
+      "p-mwseubuef84b"
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-22T23:26:21.499Z",
+    "updatedAt": "2026-11-22T23:26:33.476Z",
     "anonymous": true,
     "postponed": {},
     "postpones": 0,
@@ -39,7 +40,8 @@
       "p-mwse2ukr8d47": 1,
       "p-mwseo38k78f9": 0,
       "p-mwsex5rhe34b": 1,
-      "p-mwseuyo15faf": 2
+      "p-mwseuyo15faf": 2,
+      "p-mwseubuef84b": 1
     },
     "current": "p-mwseubuef84b",
     "hideFromBoard": true,
@@ -52,14 +54,6 @@
           "طاش",
           "قاف",
           "باب"
-        ]
-      },
-      "p-mwseubuef84b": {
-        "s": "2Kr89NSv56o=",
-        "g": [
-          "جراد",
-          "وزير",
-          "منور"
         ]
       },
       "p-mwseup0gc70c": {
