@@ -156,13 +156,15 @@
     ],
     "skipped": [],
     "hinted": [],
-    "postponed": {},
-    "postpones": 0,
+    "postponed": {
+      "p-mwpg9p1o": 5
+    },
+    "postpones": 1,
     "misses": {},
     "extra": {},
     "word": {},
     "current": "p-mwpg9p1o",
-    "updatedAt": "2026-11-23T23:00:26.223Z",
+    "updatedAt": "2026-11-23T23:04:02.806Z",
     "displayName": "فروحة"
   }
 }
