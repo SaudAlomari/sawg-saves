@@ -168,9 +168,14 @@
     "postpones": 1,
     "misses": {},
     "extra": {},
-    "word": {},
-    "current": "p-mwpg9p1o",
-    "updatedAt": "2026-11-23T23:11:00.849Z",
+    "word": {
+      "p-mwseo38k78f9": {
+        "s": "xfXKr8mr",
+        "g": []
+      }
+    },
+    "current": "p-mwseo38k78f9",
+    "updatedAt": "2026-11-23T23:11:19.647Z",
     "displayName": "فروحة"
   }
 }
