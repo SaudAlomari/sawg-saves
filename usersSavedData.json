@@ -158,7 +158,9 @@
       "p-mwtkqf1p253c"
     ],
     "skipped": [],
-    "hinted": [],
+    "hinted": [
+      "p-mwpg9p1o#1#b"
+    ],
     "postponed": {
       "p-mwpg9p1o": 5
     },
@@ -167,7 +169,7 @@
     "extra": {},
     "word": {},
     "current": "p-mwpg9p1o",
-    "updatedAt": "2026-11-23T23:07:50.901Z",
+    "updatedAt": "2026-11-23T23:08:20.465Z",
     "displayName": "فروحة"
   }
 }
