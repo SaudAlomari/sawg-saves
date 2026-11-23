@@ -148,5 +148,17 @@
     "current": "p-mwpaobft",
     "updatedAt": "2026-11-21T18:11:58.048Z",
     "hideFromBoard": true
+  },
+  "farah": {
+    "solved": [],
+    "skipped": [],
+    "hinted": [],
+    "postponed": {},
+    "postpones": 0,
+    "misses": {},
+    "extra": {},
+    "word": {},
+    "current": "p-mwpaobft",
+    "updatedAt": "2026-11-23T22:53:00.827Z"
   }
 }
