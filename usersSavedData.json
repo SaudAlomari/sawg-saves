@@ -150,7 +150,9 @@
     "hideFromBoard": true
   },
   "farah": {
-    "solved": [],
+    "solved": [
+      "p-mwpaobft"
+    ],
     "skipped": [],
     "hinted": [],
     "postponed": {},
@@ -159,7 +161,7 @@
     "extra": {},
     "word": {},
     "current": "p-mwpaobft",
-    "updatedAt": "2026-11-23T22:53:00.827Z",
+    "updatedAt": "2026-11-23T22:59:37.540Z",
     "displayName": "فروحة"
   }
 }
