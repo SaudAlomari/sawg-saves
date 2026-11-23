@@ -151,7 +151,8 @@
   },
   "farah": {
     "solved": [
-      "p-mwpaobft"
+      "p-mwpaobft",
+      "p-mwpevcfx"
     ],
     "skipped": [],
     "hinted": [],
@@ -161,7 +162,7 @@
     "extra": {},
     "word": {},
     "current": "p-mwpevcfx",
-    "updatedAt": "2026-11-23T23:00:00.326Z",
+    "updatedAt": "2026-11-23T23:00:15.717Z",
     "displayName": "فروحة"
   }
 }
