@@ -84,7 +84,7 @@
     ],
     "skipped": [],
     "hinted": [],
-    "updatedAt": "2026-11-24T20:40:25.940Z",
+    "updatedAt": "2026-11-24T20:40:28.009Z",
     "displayName": "N30o0my",
     "postponed": {
       "p-mwrzru8ebbcc": 18
@@ -92,8 +92,13 @@
     "postpones": 1,
     "misses": {},
     "extra": {},
-    "current": "p-mwtkqf1p253c",
-    "word": {}
+    "current": "p-mwseo38k78f9",
+    "word": {
+      "p-mwseo38k78f9": {
+        "s": "2/Xjrsmr",
+        "g": []
+      }
+    }
   },
   "azzah": {
     "solved": [
