@@ -12,5 +12,12 @@
     "salt": "738848eefc6cbcb191bd9fd067bfc154",
     "hash": "2897eda29ec2d43370f1d75ab107efc60699d0c1b6c77d928bc694b6b3d65ae0",
     "requestedAt": "2026-11-24T20:40:46.843Z"
+  },
+  "zoro": {
+    "username": "zoro",
+    "displayName": "zoro",
+    "salt": "e5c3a03f7348df2abe8e0eb2a664e766",
+    "hash": "28dd9d36c1a7a02a725c13894df30e889fd6890386add6f8ab3dc5235561a763",
+    "requestedAt": "2026-11-24T20:43:19.664Z"
   }
 }
