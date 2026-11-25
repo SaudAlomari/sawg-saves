@@ -5,12 +5,5 @@
     "salt": "0568d7d4fb53334a287ee1aca3bef5ef",
     "hash": "c471d4c0159afe9390e3b94d00f2419589a5bfd7faa144df663eb748ad0f9be5",
     "requestedAt": "2026-11-24T20:38:38.939Z"
-  },
-  "bsnt": {
-    "username": "bsnt",
-    "displayName": "bsnt",
-    "salt": "738848eefc6cbcb191bd9fd067bfc154",
-    "hash": "2897eda29ec2d43370f1d75ab107efc60699d0c1b6c77d928bc694b6b3d65ae0",
-    "requestedAt": "2026-11-24T20:40:46.843Z"
   }
 }
